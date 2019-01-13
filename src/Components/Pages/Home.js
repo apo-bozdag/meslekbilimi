@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import SearchBox from "../Partials/Home/SearchBox";
+import Departments from "../Partials/Others/Departments";
 
 class Home extends Component {
     componentDidMount() {
@@ -10,11 +11,11 @@ class Home extends Component {
         return (
             <div>
                 <SearchBox title={process.env.REACT_APP_SLUG}/>
+                <Departments/>
             </div>
         );
     }
 }
 
-Home.propTypes = {};
 
 export default Home;
