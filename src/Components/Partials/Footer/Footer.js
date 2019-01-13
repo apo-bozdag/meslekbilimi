@@ -4,11 +4,9 @@ import {
     Divider,
     Grid,
     Header,
-    Image,
     List,
     Segment,
 } from 'semantic-ui-react'
-import logo from '../../../Assets/Img/logo.png';
 
 class Footer extends Component {
 
@@ -56,7 +54,6 @@ class Footer extends Component {
                             </Grid.Row>
                         </Grid>
                         <Divider inverted section />
-                        <Image src={logo} centered size='mini' />
                         <List horizontal inverted divided link size='small'>
                             <List.Item as='a' href='#'>
                                 Site Map
