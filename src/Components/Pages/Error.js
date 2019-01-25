@@ -1,11 +1,15 @@
 import React, {Component} from 'react';
+import {Container} from 'semantic-ui-react'
+import Message from "../Partials/Others/Message";
 
 class Error extends Component {
 
     render() {
         return (
-            <div>
-                <h3>Error</h3>
+            <div className={"error_page"}>
+                <Container>
+                    <Message color={"red"} header={"Sayfa bulunamadı"} text={"istediğiniz sayfa bulunamadı"}/>
+                </Container>
             </div>
         );
     }

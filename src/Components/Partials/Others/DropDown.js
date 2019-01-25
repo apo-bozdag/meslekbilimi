@@ -10,9 +10,9 @@ const trigger = (
 );
 
 const options = [
-    {key: 'user', text: 'Hesabım', icon: 'user', as: Link, to: '/my-account'},
-    {key: 'settings', text: 'Settings', icon: 'settings'},
-    {key: 'sign-out', text: 'Sign Out', icon: 'sign out'},
+    {key: 'to', text: 'Hesabım', icon: 'user', as: Link, to: '/hesabim'},
+    {key: 'ayarlar', text: 'Ayarlar', icon: 'settings', as: Link , to: '/ayarlar'},
+    {key: 'cikis', text: 'Çıkış', icon: 'sign out', as: Link , to: '/cikis'},
 ];
 
 const DropDown = (props) => (

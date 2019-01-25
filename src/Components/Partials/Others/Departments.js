@@ -15,8 +15,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='Uzman'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>
@@ -24,8 +24,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='Yönetici'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>
@@ -33,8 +33,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='Yeni Mezun'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>
@@ -45,8 +45,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='İşçi'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>
@@ -54,8 +54,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='Hizmet Personeli'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>
@@ -63,8 +63,8 @@ class Departments extends Component {
                                 <Card
                                     fluid
                                     href='#card-example-link-card'
-                                    header='Elliot Baker'
-                                    meta='Friend'
+                                    header='Engelli'
+                                    meta='İş İlanları'
                                     description='Elliot is a sound engineer living in Nashville who enjoys playing guitar and hanging with his cat.'
                                 />
                             </Grid.Column>

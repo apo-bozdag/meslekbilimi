@@ -34,7 +34,7 @@ class Header extends Component {
                 </Menu>
                 <Menu className={"bottom_menu"} >
                     <Container className='center bottom_menu_container'>
-                        <CreateLink url='testpage' className={"item bottom_menu_link"} text={"Kategori"}/>
+                        <CreateLink url='is-ilanlari' className={"item bottom_menu_link"} text={"İş İlanları"}/>
                         <CreateLink url='testpage' className={"item bottom_menu_link"} text={"Kategori"}/>
                         <CreateLink url='testpage' className={"item bottom_menu_link"} text={"Kategori"}/>
                         <CreateLink url='testpage' className={"item bottom_menu_link"} text={"Kategori"}/>
