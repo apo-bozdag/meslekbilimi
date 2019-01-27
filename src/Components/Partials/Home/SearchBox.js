@@ -14,7 +14,7 @@ const SearchBox = (props) => (
             <h3>{props.title}</h3>
             <Input type='text' placeholder='Pozisyon, firma adı, sektör' className={"search_box_input"} size={"massive"} action>
                 <input />
-                <Select options={options} deburr multiple search  defaultValue={"all_cities"} noResultsMessage='Şehir bulunamadı.'/>
+                <Select options={options} deburr search  defaultValue={"all_cities"} noResultsMessage='Şehir bulunamadı.'/>
                 <Button type='submit'>Ara</Button>
             </Input>
         </Container>
